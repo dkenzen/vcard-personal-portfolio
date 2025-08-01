@@ -1,0 +1,118 @@
+Dennis Mutua
+IT Infrastructure Engineer
+
+Woodridge, Illinois
+3313266335
+
+Dynamic IT Infrastructure Engineer with over 10 years of experience in designing, implementing, and managing secure and scalable hybrid environments. Expertise in optimizing cloud and network performance while ensuring robust cybersecurity and compliance. Adept in automation, virtualization, and aligning IT strategies with business objectives to drive efficiency and reduce costs.Committed to leveraging technical skills to create resilient IT infrastructures that meet evolving business needs and deliver innovative solutions that enhance operational capabilities and support organizational growth.
+
+PERSONAL INFORMATION
+  Address: 7305 Woodward Avenue, Woodridge, Illinois, 
+  Nationality: 
+  Driving License: 
+  Hobbies: 
+
+SKILLS
+  Cloud Platforms: Azure, AWS
+  Networking: Cisco Switches, VPN (L2TP/IPSec, OpenVPN), SD-WAN
+  Network Security: FortiGate, Cisco Umbrella, SonicWall, Barracuda, CrowdStrike EDR, Rocket Cyber
+  Systems & Platforms: Microsoft 365, Microsoft Entra ID, MS Dynamics 365, SAP B1
+  Virtualization: VMware ESXi/vSphere, Microsoft Hyper-V, Citrix XenApp
+  Monitoring & Management: SCCM, SolarWinds N-Sight, Datto RMM, Jira, IT Glue, Autotask
+  Databases: Microsoft SQL Server, Azure SQL, Cosmos DB, PostgreSQL
+  Operating Systems: Windows Server, Linux, Unix, macOS
+
+WORK EXPERIENCE
+  * December 2024 – Present
+    Lead IT Consultant(Freelance) at Genssen Technologies LLC, Woodridge
+      
+  Assist small businesses and individuals with computer, printer, and LAN setup to enhance operational efficiency. 
+  Troubleshoot ongoing technical issues to ensure seamless client operations. 
+  Implement security measures to protect sensitive information and maintain data integrity. 
+  Provide training on software and business technology to improve user proficiency. 
+
+
+
+  * May 2020 – November 2024
+    Network Engineer at Teraverde, Woodridge
+      
+  Ensured operational efficiency of Teraverde’s hybrid cloud environment, meeting client SLA agreements. 
+  Optimized cloud infrastructure, significantly reducing costs while enhancing performance and security. 
+  Resolved complex network and application issues, minimizing work interruptions for clients and staff. 
+  Collaborated with cross-functional teams to address ongoing IT needs and support initiatives. 
+  Implemented proactive monitoring strategies to enhance system reliability and security. 
+
+
+  * February 2019 – May 2020
+    Application Support & Systems Specialist at Community First Fund, Lancaster
+      
+  Monitored and optimized network performance, ensuring seamless operation of customer relationship management and financial applications. 
+  Resolved network and application issues, enhancing system reliability and user experience. 
+  Provided end-user support, facilitating efficient use of IT resources across the organization. 
+  Implemented proactive monitoring tools to identify and address potential system vulnerabilities. 
+  Collaborated with cross-functional teams to align IT solutions with business objectives. 
+
+
+  * November 2018 – December 2018
+    IT Support (Contract) at Primary Care of York, York
+      
+  Provided comprehensive IT support and troubleshooting for hardware and software issues. 
+  Implemented proactive monitoring solutions to enhance system performance and minimize downtime. 
+  Managed user accounts and permissions within Active Directory and Microsoft 365 environments. 
+  Assisted in the deployment and maintenance of cloud-based services and solutions. 
+  Documented IT processes and procedures to support knowledge management and improve service delivery. 
+
+
+  * November 2018 – December 2018
+    PC Technician (Temp) at County of Lancaster, Lancaster
+      
+  Migrated legacy VoIP systems to cloud-based solutions, enhancing communication efficiency. 
+  Documented and managed IT asset inventory, ensuring accurate records for operational needs. 
+
+
+
+  * September 2016 – October 2018
+    IT Manager (Hands-On) at Slumberland Kenya Ltd., Nairobi
+      
+  Led optimization of LAN and WAN environments, enhancing performance and reducing costs. 
+  Improved business process workflows to elevate service delivery for internal users and clients. 
+  Established high-speed fiber WAN connections for customer showrooms, enabling rapid data capture and remote access. 
+  Managed infrastructure upgrades to support increased sales efficiency and customer invoicing. 
+  Collaborated with directors to ensure alignment of IT initiatives with business goals. 
+
+
+  * January 2013 – August 2016
+    Systems Administrator at Kenya Nut Company, Nairobi
+      
+  Implemented infrastructure best practices to optimize performance of ERP and  otherbusiness applications. 
+  Delivered efficient end-user support while ensuring proactive maintenance of computers and printers. 
+  Designed and implemented network and Wi-Fi access points across multiple sites to ensure seamless connectivity. 
+  Enhanced system security through regular vulnerability assessments and threat detection measures. 
+  Developed documentation for IT processes to improve knowledge management and compliance. 
+
+
+  * March 2012 – November 2012
+    Computer Technician Intern at Kenya Industrial Research & Development Institute, 
+      
+  Provided direct IT support to staff, troubleshooting hardware, software, and network connectivity issues, and contributing to reduced resolution times.
+
+
+
+EDUCATION
+  * January 1996 – January 2005
+    Wakaela Primary School,  Certificate of Primary School Education
+  * January 2006 – December 2009
+    Mbaikini High School,  Certificate of Secondary Education
+  * September 2010 – December 2012
+    KCA University,  Associate Degree in Information Technology
+  * January 2022 – Present
+    Arizona State University,  BS in Information Technology
+
+COURSES
+  * 
+    CompTIA N+, 
+  * 
+    CompTIA A+, 
+  * 
+    Microsoft Azure Fundamentals, 
+
